@@ -1,0 +1,10 @@
+{
+  "name": "My English Teacher",
+  "short_name": "English",
+  "description": "Personal AI English teacher for construction and project professionals",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#1f4fd8",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
