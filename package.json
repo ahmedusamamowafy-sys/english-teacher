@@ -1,0 +1,11 @@
+{
+  "name": "personal-english-teacher",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first PWA: personal AI English teacher for an Arabic-speaking construction professional",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=18" }
+}
